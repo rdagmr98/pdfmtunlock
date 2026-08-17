@@ -1,11 +1,11 @@
 {
-    "name": "PDF Magic Tool — Sblocco",
-    "short_name": "PDF Unlock",
+    "name": "Sbloccamelo",
+    "short_name": "Sbloccamelo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#14100c",
     "theme_color": "#14100c",
-    "description": "Calcola il codice di sblocco PDF Magic Tool dal Device ID.",
+    "description": "Calcola il codice di sblocco per PDF Magic Tool e Compressamelo dal Device ID.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
